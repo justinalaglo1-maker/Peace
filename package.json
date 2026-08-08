@@ -1,0 +1,18 @@
+{
+  "name": "peace-dark-bot",
+  "version": "1.0.0",
+  "description": "PEACE’s DARK BOT - Bot WhatsApp Multi-Device",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "keywords": ["whatsapp", "bot", "baileys"],
+  "author": "Iron Peace",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.5",
+    "qrcode-terminal": "^0.12.0",
+    "chalk": "^4.1.2",
+    "pino": "^8.17.0"
+  }
+}
